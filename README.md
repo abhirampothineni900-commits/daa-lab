@@ -1,4 +1,5 @@
 PRACTICAL 1
+
  Summary : This practical involved implementing and studying different sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.
 Each algorithm was executed on a set of input data, and its working, efficiency,and time complexity were analyzed.
 
@@ -8,6 +9,7 @@ easy to implement but are suitable only for small datasets due to their O(n²) t
 
 
 practical  2
+
  summary:This practical involved implementing and analyzing both Linear Search and Binary Search algorithms. Linear Search checks each element one by one until the target element is found, making it suitable for both sorted and unsorted datasets.
  Binary Search, on the other hand, works only on sorted data and repeatedly divides the search s
  
